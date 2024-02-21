@@ -12,7 +12,7 @@ export const ImageCont = styled.img`
 export const ImagePara = styled.p`
   font-family: 'Roboto';
   font-size: 20px;
-  color: #ffffff;
+  color: black;
 `
 export const Button = styled.button`
   background-color: #06b6d4;
@@ -22,5 +22,7 @@ export const Button = styled.button`
   padding: 8px;
   border-radius: 12px;
   border: none;
+  width: 193px;
+  height: 80px;
   cursor: pointer;
 `
